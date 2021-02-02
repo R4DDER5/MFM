@@ -259,13 +259,13 @@ Relevant training will be conducted on features of site.
 
 ### Components
 
-Component 1 | E-commerce User Account and Profile(s)
+Component 1 | E-commerce User Account and Profile(s)  
 Accounts can be created by registration or created manually, further access to other features like user, group and product management will be determined by user access levels.
 
-Component 2 | Site Backup & Security
+Component 2 | Site Backup & Security  
 A hard backup copy of the files associated with the site will be delivered on completion to the client on a memory stick, as well as backed up to appropriate secure location(s). Where appropriate the most secure encryption methods will be used.
 
-Component 3 | Training Documents
+Component 3 | Training Documents  
 A reference document outlining how to make updates to the site along with a link to online resources will be built as project develops. 
 
 
@@ -280,7 +280,7 @@ This agreement is based on the following assumptions:
 - CDL will be providing the printing. 
 - vitagen-x.com will be providing the external DNA reports
 - Appropriate secure file storage to be decided
-- Appropriate linux hosting decided
+- Appropriate linux hosting to be decided
     
 Sign off may be required before for any of the above 3rd party involvement.
 
