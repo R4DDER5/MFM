@@ -143,7 +143,7 @@ __The admin for the e-commerce site will include:__
 * Shipping Management
 * Content/Blog Management
 * Report/File Management
-* Price/Offer Management
+* Discount/Offer Management
 * Statistic & SEO Management
 * Communication & Social Media Management
 * Booking/Calendar Management
