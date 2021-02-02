@@ -235,7 +235,7 @@ Design and develop the key aspects that will be used for the core functionality 
 __4. Site Design and Content Entry__  
 Once the site design is completed and signed off, content provided to us will be entered onto the site pages. This will include text and pictures for each page to be created with the initial setup, along with meta data.  
 __5. Develop External Integration__   
-External reports, distribution and shipping and Printing
+External reports, distribution and shipping and Printing  
 __6. Checkout Payment Integration__  
 Multiple payment options will be setup including Paypal, GoCardless and others to be confirmed. The entire shop experience shall be fully tested from general browsing through to product selection, checkout purchase and delivery notification.  
 __7. Browser and Compatibility Testing__  
