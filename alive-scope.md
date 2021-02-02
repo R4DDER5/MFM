@@ -274,7 +274,7 @@ Key information we are working with
 
 This agreement is based on the following assumptions:  
 
-- Design with Home will be creative layout and designs.
+- Design with Home will be providing creative layout and designs.
 - Shanti Infotech will be providing the development team.
 - myWarehouse will be providing the distribution and shipping.
 - CDL will be providing the printing. 
