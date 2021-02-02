@@ -231,7 +231,7 @@ Decide which architecture will used and give future proof etc etc. The options t
 __2. Setup Working Environments__  
 I would initially propose to have 3 working environments. This would involve a Development Environment (DEV), a Staging Environment (STAGE) and a Live Environment (LIVE). All this environments should have a repository for version control in place. All initial development would take place in the DEV environment, when ready the work would move to the STAGE environment for more rigorous and thorough testing. Once the testing is complete and we have had the sign off that testing is complete and satisfactory, it would then move to the LIVE environment. If any problems are encountered at any point, work would move back to the DEV environment and then once again moved to STAGE for testing. Nothing would move to LIVE until everyone is completely happy for this to proceed.  
 __3. Core Functionality and Internal Integration__  
-Design and develop the key aspects that will be used for the core functionality of the site. Install e-commerce framework. Link LIFO reports with appropriate branding.
+Design and develop the key aspects that will be used for the core functionality of the site. Install e-commerce framework. Link LIFO reports with appropriate branding.  
 __4. Site Design and Content Entry__  
 Once the site design is completed and signed off, content provided to us will be entered onto the site pages. This will include text and pictures for each page to be created with the initial setup, along with meta data.  
 __5. Develop External Integration__   
