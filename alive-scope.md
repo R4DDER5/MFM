@@ -174,9 +174,9 @@ The internal system will provide the full data what is required to build the rep
   
 ##### External Reports 
 
-The system needs to be developed in a way that can accommodate any external reports from multiple 3rd parties. There will be a need to provide functionality to allow ANY 3rd party to submit reports. This will heavily depend on the functionality of the 3rd party and how they provide the reports. We will develop a system that will minimise further development work to accommodate.
-The two scenarios are as follows:
-The 3rd Party provides us the physical report in their preferred format
+The system needs to be developed in a way that can accommodate any external reports from multiple 3rd parties. There will be a need to provide functionality to allow ANY 3rd party to submit reports. This will heavily depend on the functionality of the 3rd party and how they provide the reports. We will develop a system that will minimise further development work to accommodate.  
+The two scenarios are as follows:  
+The 3rd Party provides us the physical report in their preferred format  
 The 3rd party provides us access to some form of API that allows us to generate the reports
 
 __Method 1:__ The 3rd party provides us with the physical report: There will be some structure to process that the 3rd party will be informed of, mainly the external provided will upload the document. Details of report provided will be discussed resolution, page layout, file size, delivery options. We create a simple system that notifies the 3rd party when a report is required, who the customer is and requirements and what date the expected sample/data is received or required. This will presumably be via email the 3rd party will receive all the details required via an email. Contained in the email body will be a link to submit the report when complete. This link will allow the 3rd party to upload the document. On upload the document will be encrypted, stored in appropriate place and be prepared for moderation. The relevant moderator will notified that the document is ready. The document will then be easily approved by the moderator. Once approved the customer will have access to the document and receive notification via email. The document may need to be processed accordingly to suit print requirements.
