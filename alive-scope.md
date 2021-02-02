@@ -199,7 +199,7 @@ Storage file types and delivery options need to be reviewed in detail.
 ##### Shipping and Distribution  
 Access to an externaly shipping and distribution service will be required. Current considerations is mywarehouse which offers an API connection. Documentation of the API can be found in the link below
 
-<a href="https://www.orderfulfilment.co.uk/s/myWarehouse_api_v1_9_consolidated.pdf" style="font-size:1.1em;" target="_blank">myWarehouse API Documentation</a>
+<a href="https://www.orderfulfilment.co.uk/s/myWarehouse_api_v1_9_consolidated.pdf" style="font-size:1.1em;" target="blank">myWarehouse API Documentation</a>
 
 ##### Mobile Application ALF
 
