@@ -247,7 +247,7 @@ A data collection pop-up invitation to the general mailing list as well as auto 
 
 ### Deliverables
 1. Build Core Functionality  
-We will need to prioritise building the e-commerce and LIFO reporting as priority. Other features need the ability to be switched on and off when required as the project progresses.
+We will need to prioritise building the e-commerce and LIFO reporting as urgent. Other features need the ability to be switched on and off when required as the project progresses.
 2. E-commerce site Design  
 Following the design being sent by the designer, one round of editing will be allowed before digital sign off is required to move forward to building the site.
 3. Report/Email/Marketing branding needs to be appropriate to ALIVE and its products/services
