@@ -151,6 +151,11 @@ __The admin for the e-commerce site will include:__
 * 3rd Party/API Management (Data Connection Status)
 
 
+#### SEO strategy, analytics, and social media integration.  
+
+As default google analytics should be in place which then may be expanded to include further SEO tools. Monitoring of 3rd party market activity and social media tracking should also be implemented.
+
+
 #### High Level Technical Requirements    
   * Internal Reports
   * External Reports
@@ -219,10 +224,6 @@ Short-term may require printing to be handled internally so any print management
 
 The system will have a live chat feature which will notify the end user when staff are online and offline. The live chat will have the ability for end user and staff to communicate directly. Chat logs will be recorded for any further investigation or requests.  
 
-
-#### SEO strategy, analytics, and social media integration.  
-
-As default google analytics should be in place which then may be expanded to include further SEO tools. Monitoring of 3rd party market activity and social media tracking should also be implemented.
 
 ### PROJECT TASKS
 
