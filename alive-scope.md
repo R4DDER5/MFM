@@ -173,8 +173,11 @@ STILL FOR DISCUSSION
 Ideally the system will exchange report content via a data method such as an API. The report will contain a mixture of elements such as graphs, tables and pictures as well as text. Ideally the core fixed elements will be controlled via a template system. See Appendix
 The internal system will provide the full data what is required to build the reports. The reports will be dynamically generated based on data from the LIFO site. This will involve full data integration.
 
-### GENKEY
+__GENKEY__
 The genkey is an automatic identifier or referral code. It can be anything required to identify or track a customer or offer incentives. This would likely be included in an insert page to the end of report. A design of page would be provided as there may be multiple referral codes contained within the page. This could be linked to the user or seasonal/special offers. The option to provide any key ideally would be located in the login process and/or checkout process. Any activated incentives to the customer may be associated to their profile, however may only apply for a certain period of time. Ensuring keys cannot be passed to others or used multiple times will need to be incorporated into testing.
+
+__IMPORTANT: Deciding PDF GENERATING SOFTWARE__  
+To use any 3rd party you will most likely need to set the report in a print template to incorporate print requirments for machines, it may differ by printer/machines. This print layout will be a diffent layout to any generated PDF. The printer will also require the report document to have even page numbers usually divisable by 4. Therefore additional blank pages will need to be added to the document for print to achieve the correct page count. Any PDF generating software will need adaptable enough to include templates. A further consinderation will need to be made for reports (PDF) provided via 3rd party to enable processing and preparing the document for print when uploaded.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/52332471/106425148-5709e580-645b-11eb-8f09-2159b86d14df.png" />
