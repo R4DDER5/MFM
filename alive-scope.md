@@ -171,7 +171,9 @@ The LIFO site will be responsible for generating lifestyle reports. These report
 
 STILL FOR DISCUSSION
 Ideally the system will exchange report content via a data method such as an API. The report will contain a mixture of elements such as graphs, tables and pictures as well as text. Ideally the core fixed elements will be controlled via a template system. See Appendix
-The internal system will provide the full data what is required to build the reports. The reports will be dynamically generated based on data from the LIFO site. This will involve full data integration 
+The internal system will provide the full data what is required to build the reports. The reports will be dynamically generated based on data from the LIFO site. This will involve full data integration.
+
+The genkey is an automatic identifier or referral code. It can be anything required to identify or track a customer or offer incentives. This would likely be included in an insert page to the end of report. A design of page would be provided as there may be multiple referral codes contained within the page. This could be linked to the user or seasonal/special offers. This ideally would be located in the login process and/or checkout process.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/52332471/106425148-5709e580-645b-11eb-8f09-2159b86d14df.png" />
