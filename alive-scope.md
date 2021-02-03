@@ -174,7 +174,7 @@ Ideally the system will exchange report content via a data method such as an API
 The internal system will provide the full data what is required to build the reports. The reports will be dynamically generated based on data from the LIFO site. This will involve full data integration.
 
 ### GENKEY
-The genkey is an automatic identifier or referral code. It can be anything required to identify or track a customer or offer incentives. This would likely be included in an insert page to the end of report. A design of page would be provided as there may be multiple referral codes contained within the page. This could be linked to the user or seasonal/special offers. The option to provide any key ideally would be located in the login process and/or checkout process. Any activated incentives to the customer may be associated to their profile, however may only apply for a certain period of time. A 
+The genkey is an automatic identifier or referral code. It can be anything required to identify or track a customer or offer incentives. This would likely be included in an insert page to the end of report. A design of page would be provided as there may be multiple referral codes contained within the page. This could be linked to the user or seasonal/special offers. The option to provide any key ideally would be located in the login process and/or checkout process. Any activated incentives to the customer may be associated to their profile, however may only apply for a certain period of time. Ensuring keys cannot be passed to others or used multiple times will need to be incorporated into testing.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/52332471/106425148-5709e580-645b-11eb-8f09-2159b86d14df.png" />
