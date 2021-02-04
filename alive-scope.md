@@ -194,7 +194,7 @@ __Method 1:__ The 3rd party provides us with the physical report: There will be 
 
 __Method 2:__ The 3rd party will provide to some form of API or Gateway. The details of the API will differ with provider, therefore using this method will involve some custom work for each client to initiate data integration between systems. The report will be dynamically generated created based on the process we will use for internal reports. The moderator will be notified, the moderator will have the ability to approve. Once approved the customer will have access to the document and receive notification via email.
 
-Storage file types and delivery options need to be reviewed in detail. Content Delivery Network, AWS?
+Storage file types and delivery options mainly method 1 need to be reviewed in detail. Content Delivery Network, AWS?
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/52332471/106593958-59e30400-6549-11eb-83a0-4d31203a50c0.png" />
