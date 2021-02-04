@@ -34,7 +34,7 @@ The e-commerce site will seek to place itself in a highly expanding and competit
 
 The e-commerce site will require an SEO strategy and the implementation of analytic's so that campaign effect and performance can be monitored. The e-commerce site needs the ability to publish automatically to social media channels and established online market places. Marketplaces, analytics, and social media must be centralised to allow automatic functionality and also be simple to use with a requirement to enable multiple users to contribute depending on access level.
 
-The e-commerce site needs the ability to easily promote new items and display current or special offers. The products will be displayed and cross sold across various pages within the site.
+The e-commerce site needs the ability to easily promote new items and display seasonal or special offers. The products will be displayed and cross sold across various pages within the site.
 
 The e-commerce site needs to have the ability to accept user generated content such as testimonials, news/blogs, reviews or comments. Any user generated content needs to be moderated by a site administrator before being published.
 
