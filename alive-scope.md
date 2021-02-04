@@ -147,7 +147,7 @@ __The admin for the e-commerce site will include:__
 * Statistic & SEO Management
 * Communication & Social Media Management
 * Booking/Calendar Management
-* Template Management (Email & Marketing)
+* Template Management (System Generated Message(s) & Emails, Newsletter/Marketing, Report Templates)
 * 3rd Party/API Management (Data Connection Status)
 
 
