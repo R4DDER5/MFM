@@ -192,11 +192,9 @@ The 3rd party provides us access to some form of API that allows us to generate 
 
 __Method 1:__ The 3rd party provides us with the physical report: There will be some structure to process that the 3rd party will be informed of, mainly the external provider will upload the document via ALIVE system. Details of report provided will be discussed resolution, page layout, file size, delivery options. A simple system is created that notifies the 3rd party when a report is required, who the customer is and requirements and what date the expected sample/data is received or required. This will presumably be via email and additional elements may also be included in the email body or further emails sent. Contained within the email body will be a link to submit the report when complete, this link can be generated to incorporate important information required by ALIVE customer, document type and document storage. This link will have access for the 3rd party to upload the document, preferably without needing to login. On upload the document will be encrypted, stored in appropriate place and be prepared for moderation. The relevant moderator will notified that the document is ready. The document will then be easily approved by the moderator. Once approved the customer will have access to the document and receive notification via email. The document may need to be processed accordingly to suit print requirements.
 
-Thoughts for this solution is where the documents are stored. Content Delivery Network
-
 __Method 2:__ The 3rd party will provide to some form of API or Gateway. The details of the API will differ with provider, therefore using this method will involve some custom work for each client to initiate data integration between systems. The report will be dynamically generated created based on the process we will use for internal reports. The moderator will be notified, the moderator will have the ability to approve. Once approved the customer will have access to the document and receive notification via email.
 
-Storage file types and delivery options need to be reviewed in detail.
+Storage file types and delivery options need to be reviewed in detail. Content Delivery Network, AWS?
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/52332471/106593958-59e30400-6549-11eb-83a0-4d31203a50c0.png" />
