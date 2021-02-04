@@ -40,7 +40,7 @@ The e-commerce site needs to have the ability to accept user generated content s
 
 The e-commerce site will have the functionality to choose live video consultation with an expert, this feature will also be promoted on any product sales with the ability to upgrade the purchase via the checkout process. There will be a gallery of experts to select and the appropriate live consultation time can be scheduled via a booking system. The customer will be able to access their booking schedule and live feed via their profile once logged in. Additionally once logged in via the profile the customer can make potential changes to the booking as well as cancellations depending on whether it falls within the appropriate time-scales. The customer and expert will also be emailed reminder(s) of any upcoming appointments in advance of the appointment time. 
 
-The e-commerce site will require access to an external printer and distribution who will be providing printing, picking, packing and shipment of the physical product when orders have been received. 
+The e-commerce site will require access to an external printer and distribution who will be providing printing, picking, packing and shipment of the physical product when orders have been received and shipped and when reports need printing and sending. 
 
 The e-commerce site needs the ability to receive unique access codes contained in reports. The system will be able to automatically determine the customer and apply any relevant discount/promotion associated.
 
