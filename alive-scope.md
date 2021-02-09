@@ -283,7 +283,7 @@ This agreement is based on the following assumptions:
 - Design with Home will be providing creative layout and designs.
 - Shanti Infotech will be providing the development team.
 - myWarehouse will be providing the distribution and shipping.
-- CDL will be providing the printing. 
+- CDL will be providing the printing and shipping. 
 - vitagen-x.com will be providing the external DNA reports
 - Appropriate secure file storage to be decided
 - Appropriate linux hosting to be decided
